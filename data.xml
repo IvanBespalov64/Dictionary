@@ -1,14 +1,1238 @@
 <books>
 <book>
-<id>2</id>
-<name>a</name>
-<author>a</author>
+<id>4</id>
+<name>Консуэло</name>
+<author>Жорж Сант</author>
 <num>1</num>
 </book>
 <book>
-<id>3</id>
-<name>тгт</name>
-<author>ааа</author>
-<num>3</num>
+<id>5</id>
+<name>Приключения Тома Бомбадила</name>
+<author>Джон Рональд Руэль Толкиен</author>
+<num>1</num>
+</book>
+<book>
+<id>6</id>
+<name>Тенистый лес</name>
+<author>Мэтт Хейг</author>
+<num>1</num>
+</book>
+<book>
+<id>7</id>
+<name>Скандинавские боги</name>
+<author>Нил Гейман</author>
+<num>1</num>
+</book>
+<book>
+<id>8</id>
+<name>В Питере жить</name>
+<author>Сборник</author>
+<num>1</num>
+</book>
+<book>
+<id>9</id>
+<name>Воспоминания барона Врангеля ч.2</name>
+<author>Врангель П.Н.</author>
+<num>1</num>
+</book>
+<book>
+<id>10</id>
+<name>Вилла "Белый конь"; "Н" или "М"?; Чаепитие в Хантерберри; Убить Легко</name>
+<author>Агата Кристи</author>
+<num>1</num>
+</book>
+<book>
+<id>11</id>
+<name>Заповедник гоблинов</name>
+<author>Клиффорд Саймак</author>
+<num>1</num>
+</book>
+<book>
+<id>12</id>
+<name>Кольцо тьмы (трилогия)</name>
+<author>Ник Перумов</author>
+<num>1</num>
+</book>
+<book>
+<id>13</id>
+<name>Дебри</name>
+<author>Алексей Иванов</author>
+<num>1</num>
+</book>
+<book>
+<id>14</id>
+<name>Тобол. Много званых</name>
+<author>Алексей Иванов</author>
+<num>1</num>
+</book>
+<book>
+<id>15</id>
+<name>Тобол. Мало избранных</name>
+<author>Алексей Иванов</author>
+<num>1</num>
+</book>
+<book>
+<id>16</id>
+<name>Крыса из нержавеющей стали</name>
+<author>Гарри Гаррисон</author>
+<num>1</num>
+</book>
+<book>
+<id>17</id>
+<name>История Мальтийского ордена</name>
+<author>Захаров В.А.</author>
+<num>1</num>
+</book>
+<book>
+<id>18</id>
+<name>Гойя, или Тяжкий путь познания</name>
+<author>Фейхтвангер Лион</author>
+<num>1</num>
+</book>
+<book>
+<id>19</id>
+<name>Легенда о сонной лощине</name>
+<author>Ирвинг Вашингтон</author>
+<num>1</num>
+</book>
+<book>
+<id>20</id>
+<name>Бог мелочей</name>
+<author>Рой Арундати</author>
+<num>1</num>
+</book>
+<book>
+<id>21</id>
+<name>Декабристы-естествоиспытатели</name>
+<author>Пасецкий В.М.</author>
+<num>1</num>
+</book>
+<book>
+<id>22</id>
+<name>Агент низа</name>
+<author>Вольский Марчин</author>
+<num>1</num>
+</book>
+<book>
+<id>23</id>
+<name>Дым и зеркала</name>
+<author>Гейман Нил</author>
+<num>1</num>
+</book>
+<book>
+<id>24</id>
+<name>Носорог для папы римского</name>
+<author>Норфолк Лоуренс</author>
+<num>1</num>
+</book>
+<book>
+<id>25</id>
+<name>Три великие старухи</name>
+<author>Раневская Ф.;Зеленая Р.;Пельцер Т. </author>
+<num>1</num>
+</book>
+<book>
+<id>26</id>
+<name>Крылатые кошки</name>
+<author>Ле Гуин Урсула</author>
+<num>1</num>
+</book>
+<book>
+<id>27</id>
+<name>Капитан Невельской</name>
+<author>Задорнов Николай</author>
+<num>1</num>
+</book>
+<book>
+<id>28</id>
+<name>Амулет Самарканда </name>
+<author>Страуд Джонатан</author>
+<num>1</num>
+</book>
+<book>
+<id>29</id>
+<name>Мерседес из Костилии или путешествие в Китай</name>
+<author>Купер Джеймс Фенимор</author>
+<num>1</num>
+</book>
+<book>
+<id>30</id>
+<name>Минувшее</name>
+<author>Сборник</author>
+<num>1</num>
+</book>
+<book>
+<id>31</id>
+<name>Нефть </name>
+<author>Синклер Эптон</author>
+<num>1</num>
+</book>
+<book>
+<id>32</id>
+<name>Сборник 1-6, 8-11, 15, 29</name>
+<author>Marvel</author>
+<num>12</num>
+</book>
+<book>
+<id>33</id>
+<name>Каролина</name>
+<author>Гейман Нил</author>
+<num>1</num>
+</book>
+<book>
+<id>34</id>
+<name>Убить пересмешника </name>
+<author>Харпер Ли</author>
+<num>1</num>
+</book>
+<book>
+<id>35</id>
+<name>Холмс (Комиксы)</name>
+<author>Конан Дойл Артур</author>
+<num>1</num>
+</book>
+<book>
+<id>36</id>
+<name>Кто такой красный халк?</name>
+<author>Marvel</author>
+<num>1</num>
+</book>
+<book>
+<id>37</id>
+<name>Мировая война: Халк</name>
+<author>Marvel</author>
+<num>1</num>
+</book>
+<book>
+<id>38</id>
+<name>Дардевилл. Охота на призраков</name>
+<author>Marvel</author>
+<num>1</num>
+</book>
+<book>
+<id>39</id>
+<name>Макроэкономика (Комикс)</name>
+<author>Клейн Грейди; Бауман Йорам</author>
+<num>1</num>
+</book>
+<book>
+<id>40</id>
+<name>Врангель П.Н.</name>
+<author>Воспоминания барона Врангеля ч.1</author>
+<num>1</num>
+</book>
+<book>
+<id>41</id>
+<name>Микроэкономика (Комикс)</name>
+<author>Клейн Грейди; Бауман Йорам</author>
+<num>1</num>
+</book>
+<book>
+<id>42</id>
+<name>Философия (Комикс)</name>
+<author>Паттон М.; Кэннон К;</author>
+<num>1</num>
+</book>
+<book>
+<id>43</id>
+<name>Капитал Маркса (Комикс)</name>
+<author>Смит Дэвид</author>
+<num>1</num>
+</book>
+<book>
+<id>44</id>
+<name>Теория игр (Комикс)</name>
+<author>Пастин А.</author>
+<num>1</num>
+</book>
+<book>
+<id>45</id>
+<name>Холодное оружие и вооружение</name>
+<author>Попенко В.Н.</author>
+<num>1</num>
+</book>
+<book>
+<id>46</id>
+<name>1602</name>
+<author>Гейман Нил</author>
+<num>1</num>
+</book>
+<book>
+<id>47</id>
+<name>Самураи</name>
+<author>Курэ М.</author>
+<num>1</num>
+</book>
+<book>
+<id>48</id>
+<name>Собака Баскервилей (Комикс)</name>
+<author>Конан Дойл Артур</author>
+<num>1</num>
+</book>
+<book>
+<id>49</id>
+<name>Дедпул. Мертвые президенты</name>
+<author>Marvel</author>
+<num>1</num>
+</book>
+<book>
+<id>50</id>
+<name>Игры императоров</name>
+<author>Сборник</author>
+<num>1</num>
+</book>
+<book>
+<id>51</id>
+<name>Ведьмак. Последнее желание</name>
+<author>Сапковский Анджей</author>
+<num>1</num>
+</book>
+<book>
+<id>52</id>
+<name>Корпорация "Бессмертие"</name>
+<author>Шекли Роберт</author>
+<num>1</num>
+</book>
+<book>
+<id>53</id>
+<name>Котелок дядюшкия Ляо</name>
+<author>Минц Лев</author>
+<num>1</num>
+</book>
+<book>
+<id>54</id>
+<name>Большая книга занимательных наук</name>
+<author>Перельман Яков</author>
+<num>1</num>
+</book>
+<book>
+<id>56</id>
+<name>Стечение обстоятельств; Кот в мешке</name>
+<author>Хмелевская Иоанна </author>
+<num>1</num>
+</book>
+<book>
+<id>57</id>
+<name>Хрупкие вещи</name>
+<author>Гейман Нил</author>
+<num>1</num>
+</book>
+<book>
+<id>58</id>
+<name>Одд и ледяные великаны </name>
+<author>Гейман Нил</author>
+<num>1</num>
+</book>
+<book>
+<id>59</id>
+<name>Все новые сказки </name>
+<author>Гейман Нил</author>
+<num>1</num>
+</book>
+<book>
+<id>60</id>
+<name>Лавка старинных диковин </name>
+<author>Шекли Роберт</author>
+<num>1</num>
+</book>
+<book>
+<id>61</id>
+<name>Тайна старого кладбища </name>
+<author>Иванов Антон; Устинова Анна</author>
+<num>1</num>
+</book>
+<book>
+<id>62</id>
+<name>Перси Джексон и Море чудовищ</name>
+<author>Риордан Р.</author>
+<num>1</num>
+</book>
+<book>
+<id>63</id>
+<name>Перси Джексон и проклятие Титана</name>
+<author>Риордан Р.</author>
+<num>1</num>
+</book>
+<book>
+<id>64</id>
+<name>Десять негритят </name>
+<author>Агата Кристи</author>
+<num>1</num>
+</book>
+<book>
+<id>65</id>
+<name>Зов кукушки </name>
+<author>Гелбрейт Р.</author>
+<num>1</num>
+</book>
+<book>
+<id>67</id>
+<name>Сестры Гримм. Меч черного рыцаря</name>
+<author>Бакли М.</author>
+<num>1</num>
+</book>
+<book>
+<id>68</id>
+<name>Сестры Гримм. Сказочный переполох</name>
+<author>Бакли М.</author>
+<num>1</num>
+</book>
+<book>
+<id>69</id>
+<name>Сестры Гримм. Тайна алой руки</name>
+<author>Бакли М.</author>
+<num>1</num>
+</book>
+<book>
+<id>70</id>
+<name>Саламбо</name>
+<author>Флобер Г.</author>
+<num>1</num>
+</book>
+<book>
+<id>71</id>
+<name>Песнь меча</name>
+<author>Сатклиф Р.</author>
+<num>1</num>
+</book>
+<book>
+<id>72</id>
+<name>Великолепный миф</name>
+<author>Асприн Р.</author>
+<num>1</num>
+</book>
+<book>
+<id>73</id>
+<name>Меч самурая. Страшная тайна</name>
+<author>Сноу М.</author>
+<num>1</num>
+</book>
+<book>
+<id>74</id>
+<name>Изгнанники </name>
+<author>Конан Дойл Артур</author>
+<num>1</num>
+</book>
+<book>
+<id>75</id>
+<name>Глаз реальности</name>
+<author>Шекли Р.</author>
+<num>1</num>
+</book>
+<book>
+<id>76</id>
+<name>Полынь чужбины</name>
+<author>Андриянов В.</author>
+<num>1</num>
+</book>
+<book>
+<id>77</id>
+<name>Верноподданый</name>
+<author>Манн Генрих</author>
+<num>1</num>
+</book>
+<book>
+<id>78</id>
+<name>Ведьмак. Меч предназначения</name>
+<author>Сапковский А.</author>
+<num>1</num>
+</book>
+<book>
+<id>79</id>
+<name>Бесспорное правосудие </name>
+<author>Джеймс Ф.Д.</author>
+<num>1</num>
+</book>
+<book>
+<id>80</id>
+<name>Джерри-островитянин</name>
+<author>Лондон Джек</author>
+<num>1</num>
+</book>
+<book>
+<id>81</id>
+<name>Рядовой Александр Матросов</name>
+<author>Джурба П.</author>
+<num>1</num>
+</book>
+<book>
+<id>82</id>
+<name>Подъем затонувших кораблей</name>
+<author>Горз Джозеф Н.</author>
+<num>1</num>
+</book>
+<book>
+<id>83</id>
+<name>Наследники богов. Красная пирамида. Книга первая</name>
+<author>Риордан Рик</author>
+<num>1</num>
+</book>
+<book>
+<id>84</id>
+<name>Тайна прошедших времен</name>
+<author>Можейко Игорь</author>
+<num>1</num>
+</book>
+<book>
+<id>85</id>
+<name>Властелин колец. Хранители кольца. Том 1</name>
+<author>Толкиен Дж. Р.Р.</author>
+<num>1</num>
+</book>
+<book>
+<id>86</id>
+<name>Копи царя Соломона. Прекрасная Маргарет</name>
+<author>Хаггарт Генри</author>
+<num>1</num>
+</book>
+<book>
+<id>87</id>
+<name>Евгений Онегин</name>
+<author>Пушкин А.С.</author>
+<num>1</num>
+</book>
+<book>
+<id>88</id>
+<name>Герой нашего времени </name>
+<author>Лермонтов М.Ю.</author>
+<num>1</num>
+</book>
+<book>
+<id>89</id>
+<name>Остров Крым</name>
+<author>Аксенов Василий</author>
+<num>1</num>
+</book>
+<book>
+<id>90</id>
+<name>Истории московских домов, рассказанные их жителями</name>
+<author>Опарин Д.; Акимов А.</author>
+<num>1</num>
+</book>
+<book>
+<id>91</id>
+<name>Тинтин. Краб с золотыми клешнями</name>
+<author>Эрже</author>
+<num>1</num>
+</book>
+<book>
+<id>92</id>
+<name>Тинтин. Ловкий Карманник </name>
+<author>Эрже</author>
+<num>1</num>
+</book>
+<book>
+<id>93</id>
+<name>Девочки. Дневник матери</name>
+<author>Вигдорова Фрида</author>
+<num>1</num>
+</book>
+<book>
+<id>95</id>
+<name>Тайна индейских пирамид </name>
+<author>Стингл М.</author>
+<num>1</num>
+</book>
+<book>
+<id>96</id>
+<name>Повести и пьесы  </name>
+<author>Чехов А.П.</author>
+<num>1</num>
+</book>
+<book>
+<id>97</id>
+<name>Гаргантю и Пантагрюэль</name>
+<author>Рабле Франсуа</author>
+<num>1</num>
+</book>
+<book>
+<id>98</id>
+<name>Дети Капитана Гранта</name>
+<author>Верн Жюль</author>
+<num>2</num>
+</book>
+<book>
+<id>99</id>
+<name>Двадцать тысяч лье под водой</name>
+<author>Верн Жюль</author>
+<num>1</num>
+</book>
+<book>
+<id>100</id>
+<name>Таинственный остров</name>
+<author>Верн Жюль</author>
+<num>2</num>
+</book>
+<book>
+<id>101</id>
+<name>Гектор Сервадак</name>
+<author>Верн Жюль</author>
+<num>1</num>
+</book>
+<book>
+<id>102</id>
+<name>Путешествие и приключения капитана Гаттераса</name>
+<author>Верн Жюль</author>
+<num>1</num>
+</book>
+<book>
+<id>103</id>
+<name>Пять недель на воздушном шаре</name>
+<author>Верн Жюль</author>
+<num>1</num>
+</book>
+<book>
+<id>104</id>
+<name>Удивительное приключениие дядюшки Антифера</name>
+<author>Верн Жюль</author>
+<num>1</num>
+</book>
+<book>
+<id>105</id>
+<name>Робур-завоеватель </name>
+<author>Верн Жюль</author>
+<num>1</num>
+</book>
+<book>
+<id>106</id>
+<name>Вокруг Луны</name>
+<author>Верн Жюль</author>
+<num>1</num>
+</book>
+<book>
+<id>107</id>
+<name>Пятнадцатилетний капитан</name>
+<author>Верн Жюль</author>
+<num>1</num>
+</book>
+<book>
+<id>108</id>
+<name>Курдские сказки. Лев и мышь</name>
+<author>Сборник</author>
+<num>1</num>
+</book>
+<book>
+<id>109</id>
+<name>Время всегда хорошее</name>
+<author>Жвалевский А.</author>
+<num>1</num>
+</book>
+<book>
+<id>110</id>
+<name>Беги, мальчик, беги</name>
+<author>Орлев У.</author>
+<num>1</num>
+</book>
+<book>
+<id>111</id>
+<name>Волшебные неудачники</name>
+<author>Харрис Нил</author>
+<num>1</num>
+</book>
+<book>
+<id>112</id>
+<name>Записки примата</name>
+<author>Сапольски Р.</author>
+<num>1</num>
+</book>
+<book>
+<id>113</id>
+<name>Сердце Пармы</name>
+<author>Алексей Иванов</author>
+<num>1</num>
+</book>
+<book>
+<id>114</id>
+<name>Старик и море</name>
+<author>Хемингуэй Э.</author>
+<num>1</num>
+</book>
+<book>
+<id>115</id>
+<name>Игра Престолов. Пир стервятников</name>
+<author>Мартин Джордж Р.Р.</author>
+<num>1</num>
+</book>
+<book>
+<id>116</id>
+<name>Дворцы, усадьбы, доходные дома. Исторические рассказы о недвижимости Москвы и подмосковья</name>
+<author>Ульянова Г.</author>
+<num>1</num>
+</book>
+<book>
+<id>117</id>
+<name>Фантастические звери и места их обитания</name>
+<author>Ролинг Джоан К.</author>
+<num>1</num>
+</book>
+<book>
+<id>118</id>
+<name>Канал имени Москвы</name>
+<author>Аноним</author>
+<num>1</num>
+</book>
+<book>
+<id>119</id>
+<name>Легенды о самураях </name>
+<author>Митфорд Л.</author>
+<num>1</num>
+</book>
+<book>
+<id>120</id>
+<name>Два капитана</name>
+<author>Каверин В.</author>
+<num>1</num>
+</book>
+<book>
+<id>121</id>
+<name>Повесть о настоящем человеке</name>
+<author>Полевой Б.</author>
+<num>1</num>
+</book>
+<book>
+<id>122</id>
+<name>Психологические новеллы</name>
+<author>Грин А.</author>
+<num>1</num>
+</book>
+<book>
+<id>123</id>
+<name>Витька с Чапаевской улицы</name>
+<author>Козлов В.</author>
+<num>1</num>
+</book>
+<book>
+<id>124</id>
+<name>Где кончается небо</name>
+<author>Мариас Ф.</author>
+<num>1</num>
+</book>
+<book>
+<id>125</id>
+<name>Копченая селедка без горчицы</name>
+<author>Бредли А.</author>
+<num>1</num>
+</book>
+<book>
+<id>126</id>
+<name>Драконы осенних сумерек</name>
+<author>Уэйс М.; Хикмен Т.</author>
+<num>1</num>
+</book>
+<book>
+<id>127</id>
+<name>Обломов</name>
+<author>Гончаров И.А.</author>
+<num>1</num>
+</book>
+<book>
+<id>128</id>
+<name>История пчел</name>
+<author>Лунде М.</author>
+<num>1</num>
+</book>
+<book>
+<id>129</id>
+<name>Повести</name>
+<author>Гоголь Н.В.</author>
+<num>1</num>
+</book>
+<book>
+<id>130</id>
+<name>Рассказы</name>
+<author>По Эдгар</author>
+<num>1</num>
+</book>
+<book>
+<id>131</id>
+<name>Униженные и оскорбленные</name>
+<author>Достоевский Ф.М.</author>
+<num>1</num>
+</book>
+<book>
+<id>132</id>
+<name>Сказки</name>
+<author>Салтыков-Щедрин М.Е.</author>
+<num>1</num>
+</book>
+<book>
+<id>133</id>
+<name>Старик и море; Острова в океане</name>
+<author>Хэмингуэй Э.</author>
+<num>1</num>
+</book>
+<book>
+<id>134</id>
+<name>Дикая собака Динго или повесть о первой любви; Синие море, белый пароход</name>
+<author>Фраерман Р.; Машкин Г.</author>
+<num>1</num>
+</book>
+<book>
+<id>135</id>
+<name>Сурике; Мексиканская вендетта; Карденио</name>
+<author>Эмар Г.</author>
+<num>1</num>
+</book>
+<book>
+<id>136</id>
+<name>Перси Джексон и похититель молний</name>
+<author>Риордан Рик</author>
+<num>1</num>
+</book>
+<book>
+<id>137</id>
+<name>Измеряя мир</name>
+<author>Кельман Д.</author>
+<num>1</num>
+</book>
+<book>
+<id>138</id>
+<name>Как закалялась сталь</name>
+<author>Островский Н.</author>
+<num>1</num>
+</book>
+<book>
+<id>139</id>
+<name>Авиатор </name>
+<author>Водолазкин Е.</author>
+<num>1</num>
+</book>
+<book>
+<id>140</id>
+<name>Гайдзин на службе в MITSUBISHI</name>
+<author>Муртаг Н.</author>
+<num>1</num>
+</book>
+<book>
+<id>141</id>
+<name>Алые паруса</name>
+<author>Грин А.</author>
+<num>1</num>
+</book>
+<book>
+<id>142</id>
+<name>Водители фрегатов</name>
+<author>Чуковский Н.</author>
+<num>1</num>
+</book>
+<book>
+<id>143</id>
+<name>Батый</name>
+<author>Ян В.</author>
+<num>1</num>
+</book>
+<book>
+<id>144</id>
+<name>Через невидимые барьеры. Испытано в небе</name>
+<author>Галлай М.</author>
+<num>1</num>
+</book>
+<book>
+<id>145</id>
+<name>Выхожу в космос </name>
+<author>Леонов А.</author>
+<num>1</num>
+</book>
+<book>
+<id>146</id>
+<name>Пьесы</name>
+<author>Чехов А.П.</author>
+<num>1</num>
+</book>
+<book>
+<id>147</id>
+<name>Рассказы о Гагарине </name>
+<author>Нагибин Ю.</author>
+<num>1</num>
+</book>
+<book>
+<id>148</id>
+<name>Птицы разных материков</name>
+<author>Бёме Р.; Кузнецов А.</author>
+<num>1</num>
+</book>
+<book>
+<id>149</id>
+<name>Повести и рассказы</name>
+<author>Лавренёв Б.</author>
+<num>1</num>
+</book>
+<book>
+<id>150</id>
+<name>Богатырские фамилии</name>
+<author>Алексеев С.</author>
+<num>1</num>
+</book>
+<book>
+<id>151</id>
+<name>Тайные общества черной Африки</name>
+<author>Непомнящий Н.</author>
+<num>1</num>
+</book>
+<book>
+<id>152</id>
+<name>Азазель</name>
+<author>Акунин Б.</author>
+<num>1</num>
+</book>
+<book>
+<id>153</id>
+<name>Вокруг света на "Коршуне"</name>
+<author>Станюкович К.</author>
+<num>1</num>
+</book>
+<book>
+<id>154</id>
+<name>Робинзон Крузо</name>
+<author>Дефо Д.</author>
+<num>1</num>
+</book>
+<book>
+<id>155</id>
+<name>Детективы франции. Мотив убийства</name>
+<author>Маншетт Жан-Патрик</author>
+<num>1</num>
+</book>
+<book>
+<id>156</id>
+<name>Гаврош</name>
+<author>Гюго В.</author>
+<num>1</num>
+</book>
+<book>
+<id>157</id>
+<name>Сын полка</name>
+<author>Катаев В.</author>
+<num>1</num>
+</book>
+<book>
+<id>158</id>
+<name>Остров сокровищ</name>
+<author>Стивенсон Р.</author>
+<num>1</num>
+</book>
+<book>
+<id>159</id>
+<name>История государства российского (тома с 1 по 4)</name>
+<author>Карамзин Н.</author>
+<num>1</num>
+</book>
+<book>
+<id>160</id>
+<name>Овод</name>
+<author>Войнич Э.</author>
+<num>1</num>
+</book>
+<book>
+<id>161</id>
+<name>Расстрелять</name>
+<author>Покровский А.</author>
+<num>1</num>
+</book>
+<book>
+<id>162</id>
+<name>Остров Тамбукту</name>
+<author>Марчевский М.</author>
+<num>1</num>
+</book>
+<book>
+<id>163</id>
+<name>Чай с птицами</name>
+<author>Харрис Д.</author>
+<num>1</num>
+</book>
+<book>
+<id>164</id>
+<name>История Генри Эсмонда</name>
+<author>Теккерей У.</author>
+<num>1</num>
+</book>
+<book>
+<id>165</id>
+<name>Пристрастие к смерти</name>
+<author>Джеймс Ф.Д.</author>
+<num>1</num>
+</book>
+<book>
+<id>166</id>
+<name>Ахиллес - сын Таргитая</name>
+<author>Покровский А.</author>
+<num>1</num>
+</book>
+<book>
+<id>167</id>
+<name>Сказки и истории</name>
+<author>Покровский А.</author>
+<num>1</num>
+</book>
+<book>
+<id>168</id>
+<name>Мертвые души</name>
+<author>Гоголь Н.В.</author>
+<num>1</num>
+</book>
+<book>
+<id>169</id>
+<name>Беседы по физике</name>
+<author>Блудов М.</author>
+<num>1</num>
+</book>
+<book>
+<id>170</id>
+<name>На службе зла</name>
+<author>Гелбрейт Р.</author>
+<num>1</num>
+</book>
+<book>
+<id>171</id>
+<name>Метро 2033</name>
+<author>Глуховский Д.</author>
+<num>1</num>
+</book>
+<book>
+<id>172</id>
+<name>Белая перчатка; В дебрях Борнео</name>
+<author>Майн Рид</author>
+<num>1</num>
+</book>
+<book>
+<id>173</id>
+<name>Повести и рассказы</name>
+<author>Толстой А.</author>
+<num>1</num>
+</book>
+<book>
+<id>174</id>
+<name>Чапаев</name>
+<author>Фурманов Д.</author>
+<num>1</num>
+</book>
+<book>
+<id>175</id>
+<name>Занавес: последнее дело Пуаро</name>
+<author>Агата Кристи</author>
+<num>1</num>
+</book>
+<book>
+<id>176</id>
+<name>Сказочная древность</name>
+<author>Зелинский Ф.</author>
+<num>1</num>
+</book>
+<book>
+<id>177</id>
+<name>Манюня пишет фантастичыскый роман</name>
+<author>Абгарян Н.</author>
+<num>1</num>
+</book>
+<book>
+<id>178</id>
+<name>Манюня юбилей Ба и прочие треволнения</name>
+<author>Абгарян Н.</author>
+<num>1</num>
+</book>
+<book>
+<id>179</id>
+<name>Краткая история почти всего на свете</name>
+<author>Брайсон Б.</author>
+<num>1</num>
+</book>
+<book>
+<id>180</id>
+<name>Очень простое открытие </name>
+<author>Гуриев В.</author>
+<num>1</num>
+</book>
+<book>
+<id>181</id>
+<name>100 великих авантюристов</name>
+<author>Муромов И.А.</author>
+<num>1</num>
+</book>
+<book>
+<id>182</id>
+<name>Приключения Бена Ганна</name>
+<author>Делдерфилд Р.</author>
+<num>1</num>
+</book>
+<book>
+<id>183</id>
+<name>Донские рассказы, судьба человека</name>
+<author>Шолохов М.</author>
+<num>1</num>
+</book>
+<book>
+<id>184</id>
+<name>Погребенный с фараонами</name>
+<author>Лавкрафт Г.Ф.</author>
+<num>1</num>
+</book>
+<book>
+<id>185</id>
+<name>Повести и рассказы</name>
+<author>Кассиль Л.</author>
+<num>1</num>
+</book>
+<book>
+<id>186</id>
+<name>Золотой лук</name>
+<author>Пришвин М.</author>
+<num>1</num>
+</book>
+<book>
+<id>187</id>
+<name>Мальчик со шпагой</name>
+<author>Крапивин В.</author>
+<num>1</num>
+</book>
+<book>
+<id>188</id>
+<name>Белый Бим Черное Ухо </name>
+<author>Троепольский Г.</author>
+<num>1</num>
+</book>
+<book>
+<id>189</id>
+<name>Посмотрите - я расту</name>
+<author>Алмазов Б.</author>
+<num>1</num>
+</book>
+<book>
+<id>190</id>
+<name>Хочу всё знать</name>
+<author>Сборник</author>
+<num>1</num>
+</book>
+<book>
+<id>191</id>
+<name>Гобсек</name>
+<author>Бальзак Оноре</author>
+<num>1</num>
+</book>
+<book>
+<id>192</id>
+<name>Записки охотника</name>
+<author>Тургеньв И.</author>
+<num>1</num>
+</book>
+<book>
+<id>193</id>
+<name>Дети-герои</name>
+<author>Гончаренко И.</author>
+<num>1</num>
+</book>
+<book>
+<id>194</id>
+<name>Старик Хоттабыч </name>
+<author>Лагин Л.</author>
+<num>1</num>
+</book>
+<book>
+<id>195</id>
+<name>Одна лошадиная сила</name>
+<author>Стрелкова И.</author>
+<num>1</num>
+</book>
+<book>
+<id>196</id>
+<name>Наулака; Ким</name>
+<author>Киплинг Р.</author>
+<num>1</num>
+</book>
+<book>
+<id>197</id>
+<name>Повести</name>
+<author>Тургеньев И.</author>
+<num>1</num>
+</book>
+<book>
+<id>198</id>
+<name>Рассказы</name>
+<author>Короленко В.</author>
+<num>1</num>
+</book>
+<book>
+<id>199</id>
+<name>Отцы и дети</name>
+<author>Тургеньев И.</author>
+<num>1</num>
+</book>
+<book>
+<id>200</id>
+<name>Капитан Сорвиголова</name>
+<author>Буссенар Л.</author>
+<num>1</num>
+</book>
+<book>
+<id>201</id>
+<name>Степной найденышь; Сьюзи; Кларенс</name>
+<author>Гарт Б.</author>
+<num>1</num>
+</book>
+<book>
+<id>202</id>
+<name>Сантехник, его кот, жена и другие подробности</name>
+<author>Сэ Слава</author>
+<num>1</num>
+</book>
+<book>
+<id>203</id>
+<name>Баллады тюрем и заграниц</name>
+<author>Веллер М.</author>
+<num>1</num>
+</book>
+<book>
+<id>204</id>
+<name>Заир</name>
+<author>Коэльо П.</author>
+<num>1</num>
+</book>
+<book>
+<id>205</id>
+<name>Ожерелье светлейшего. Племянницы князя Потемкина</name>
+<author>Данилова А.</author>
+<num>1</num>
+</book>
+<book>
+<id>206</id>
+<name>Охотники за скальпами</name>
+<author>Рид М.</author>
+<num>1</num>
+</book>
+<book>
+<id>207</id>
+<name>Лесная газета</name>
+<author>Бианки В.</author>
+<num>1</num>
+</book>
+<book>
+<id>208</id>
+<name>Севастопольские рассказы</name>
+<author>Толстой Л.</author>
+<num>1</num>
+</book>
+<book>
+<id>209</id>
+<name>Рассказы о Дзержинском</name>
+<author>Герман Ю.</author>
+<num>1</num>
+</book>
+<book>
+<id>210</id>
+<name>Треугольные письма</name>
+<author>Красильников А.</author>
+<num>1</num>
+</book>
+<book>
+<id>211</id>
+<name>Поле родины (1380 - 1980)</name>
+<author>Сборник</author>
+<num>1</num>
+</book>
+<book>
+<id>212</id>
+<name>Математическая шкатулка</name>
+<author>Нагибин Ф.Ф.; Канин Е.С.</author>
+<num>1</num>
 </book>
 </books>
